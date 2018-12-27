@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pinyougou-common" />
+        <module name="pinyougou-dao" />
+        <module name="pinyougou-interface" />
+        <module name="pinyougou-pojo" />
+        <module name="pinyougou-service-buyer" />
+        <module name="pinyougou-service-page" />
+        <module name="pinyougou-service-search" />
+        <module name="pinyougou-service-sellergoods" />
+        <module name="pinyougou-service-user" />
+        <module name="pinyougou-web-manager" />
+        <module name="pinyougou-web-portal" />
+        <module name="pinyougou-web-shop" />
+        <module name="pinyougou-web-user" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
